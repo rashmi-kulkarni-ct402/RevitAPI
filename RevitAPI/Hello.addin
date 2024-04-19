@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>MyFirstRevitAPI</Name>
+
+		<FullClassName>RevitAPI.RevitAPIClass</FullClassName>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>D:\rashmi_workspace\10. RevitAPI\RevitAPI\RevitAPI\bin\Debug\RevitAPI.dll</Assembly>
+
+		<AddInId>29C39FC0-3753-4A69-8261-22296960A752</AddInId>
+
+		<Text>Hello!</Text>
+
+		<VendorId>ADSK</VendorId>
+
+		<VendorDescription>
+			Autodesk, Inc,your company,
+			www.autodesk.com
+		</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
